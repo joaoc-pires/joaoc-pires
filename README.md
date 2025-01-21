@@ -3,9 +3,8 @@
 ## I'm an iOS Developer!
 - 💻 I'm currently rewriting a couple of old apps.
 - 🌱 I'm gathering more expertise in SwiftUI and it's architecture!
-- 🏁 2024 goal: Run 10k and publish a new app on the App Store.
+- 🏁 2025 goal: Run 10k and publish a new app on the App Store.
 - 🇵🇹 I live in sunny Portugal.
-- 🇬🇧 Looking to move to Britain.
 
 ### Language and tools
 
